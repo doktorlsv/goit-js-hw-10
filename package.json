@@ -1,5 +1,6 @@
 {
   "name": "goit-js-hw-10",
+  "homepage": "https://doktorlsv.github.io/goit-js-hw-10",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -18,7 +19,7 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^7.0.0"
   },
-  "author": "Dmytro Voitovych <xxleittoxx@gmail.com>",
+  "author": "Serhii <doktorLSV@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "flatpickr": "^4.6.13",
